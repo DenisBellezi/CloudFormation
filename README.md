@@ -13,7 +13,7 @@ IMPORTANT:
     Windows_Server-2022-English-Full-Base
     
 
-Files:
+Template Files:
 
     CFN-Template-NewVPC-DomainControllersEC2-CA-ADFS.v4.8.json
     
@@ -37,7 +37,7 @@ Resources:
 
 	Time estimated to launch the stack: between 30 min - 1h 20min (depending on the resources you selected to launch).
 
-Files: 
+Template Files: 
 
     CFN-Template-NewVPC-ManagedAD-CA-ADFS.v4.8.json
     
