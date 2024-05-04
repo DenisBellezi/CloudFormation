@@ -1,4 +1,17 @@
-CloudFormation Templates (YAML and JSON) TO CREATE Active Directory, Certificate Authority, ADFS and other resources:
+CloudFormation Templates (YAML and JSON) TO CREATE Active Directory, Certificate Authority, ADFS and other resources.
+
+IMPORTANT:
+
+    STACK NAME: maximum of 14 characters.
+    
+    SUPPORTED AMIs:
+
+    Windows_Server-2016-English-Full-Base
+
+    Windows_Server-2019-English-Full-Base
+
+    Windows_Server-2022-English-Full-Base
+    
 
 Files:
 
