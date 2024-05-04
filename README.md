@@ -41,7 +41,7 @@ Files:
 
     CFN-Template-NewVPC-ManagedAD-CA-ADFS.v4.8.json
     
-    CFN-Template-NewVPC-ManagedAD-CA-ADFS.v4.8
+    CFN-Template-NewVPC-ManagedAD-CA-ADFS.v4.8.yaml
 
 Resources:
 
